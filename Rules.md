@@ -21,7 +21,8 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | No overpowered Pokémon | Only Pokémon below **600BST** may be selected for your team. If all Pokémon are banned in the Lab fight, you must reset but do not count it as an attempt. All Shedinja Fusions are banned. |
 | Calculating Fusions | The [Infinite Fusion Calculator](https://aegide.github.io/) may be used during runs to understand typing/stat spreads. |
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
-| Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Any acquired Flutes may be used **once each per Pokémon Centre heal**. Exp. All is banned/must be turned off. |
+| Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
+| Flute rule | Any acquired Flutes may only be used **once each per Pokémon Centre heal**. |
 | No stealing | Items may not be harvested from wild Pokémon. |
 | Catch one per route | Only one Pokémon may be caught per route. *Fusions are not eligible to be caught?* |
 | No HM moves in battle | HM moves are not permitted to be used inside of battle. |
