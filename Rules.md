@@ -1,4 +1,4 @@
-# The FusionMON Challenge
+# The FusionMON Challenge 
 FusionMON is a challenge which has been created to incorporate the [IronMON Challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [Pokémon Infinite Fusion](https://www.pokecommunity.com/showthread.php?t=347883).
 
 Jump to: | [Standard](#standard-fusionmon-rules) | [Levels](#infinite-fusion-levels) |
