@@ -22,6 +22,8 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Calculating Fusions | The [Infinite Fusion Calculator](https://aegide.github.io/) may be used during runs to understand typing/stat spreads. |
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
 | Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
+| x99 item ban | The x99 of one item is banned. You can sell it at the mart or trash them. |
+| Collect once rule | Items in mushrooms and rocks are a one-time pickup. Any items collected after initial collection must be trashed. |
 | Flute rule | Any acquired Flutes may only be used **once each per Pokémon Centre heal**. |
 | No stealing | Items may not be harvested from wild Pokémon. |
 | Catch one per route | Only one Pokémon may be caught per route. *Fusions are not eligible to be caught?* |
@@ -31,6 +33,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | New Fusion before Gyms | One Pokémon must be unfused & fused to a new Pokémon before each Gym (choose wisely). Team member Pokémon may be placed in the box **ONLY** for Fusion. |
 | Move reminder | You may replace **4 moves per Fusion**. Relearnt moves must be purchased all at once (no saving moves for later). |
 | 6-team total | Only 6 Pokémon Fusions are permitted in the team per seed. If a Pokémon faints, they must be permanently placed in the box or released. |
+| Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, wondertrade or Black Market) are banned. |
 | HM friends | If all 5 Pokémon have fainted, new Pokémon may be caught to serve **only as HM friends**. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 
