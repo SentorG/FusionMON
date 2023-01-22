@@ -1,7 +1,7 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [IronMON Challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [Pokémon Infinite Fusion](https://www.pokecommunity.com/showthread.php?t=347883).
 
-Jump to:    | [Standard](#standard-fusionmon-rules) | [Levels](#infinite-fusion-levels) |
+Jump to: | [Standard](#standard-fusionmon-rules) | [Levels](#infinite-fusion-levels) |
 
 Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. The game introduces DNA Splicers (from Generation 5) which the player can use on any Pokémon they find in the game. Each combination has a unique sprite, stats, movepool, Pokédex entry, and everything else you could expect from a Pokémon. You can find out about what happens during the Fusion process [here](https://www.reddit.com/r/PokemonInfiniteFusion/comments/b01dyw/fusion_faq/). Use this [Fusion Calculator](https://aegide.github.io/) to see all the potential combinations! [Here](https://infinitefusion.fandom.com/wiki/Differences_with_the_official_games) you can find all of the major changes to the game.
 
