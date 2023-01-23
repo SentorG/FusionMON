@@ -60,5 +60,5 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Clair | **5** | 62, 62, 63, 63, 66 |
 | Morty | **5** | 63, 64, 65, 65, 67 |
 | Pryce | **5** | 64, 65, 65, 65, 65 |
-| Jasmine (Chrono Island) | **5** | 66, 66, 68, 67, 67 |
+| Jasmine (Chrono Island) | **5** | 66, 66, 67, 67, 68 |
 | Gold (Mt. Silver) | **6** | 76, 77, 77, 77, 78, 79 |
