@@ -1,4 +1,4 @@
-# The FusionMON Challenge 
+# The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [IronMON Challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [Pokémon Infinite Fusion](https://www.pokecommunity.com/showthread.php?t=347883).
 
 Jump to: | [Standard](#standard-fusionmon-rules) | [Levels](#infinite-fusion-levels) |
@@ -22,7 +22,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Calculating Fusions | The [Infinite Fusion Calculator](https://aegide.github.io/) may be used during runs to understand typing/stat spreads. |
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
 | Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
-| x99 item ban | The x99 of one item is banned. You can sell it at the mart or trash them. ![x99Image](x99ItemImage.jpg) |
+| x99 item ban | The x99 of one item is banned. You can sell it at the mart or trash them. ![x99ItemImage](x99ItemImage.jpg) |
 | Collect once rule | Items in mushrooms and rocks are a one-time pickup. Any items collected after initial collection must be trashed. Berry bushes are banned. |
 | Flute rule | Any acquired Flutes may only be used **once each per Pokémon Centre heal**. |
 | No stealing | Items may not be harvested from wild Pokémon. |
