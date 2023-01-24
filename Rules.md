@@ -42,6 +42,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | No stealing | Items may not be harvested from wild Pokémon. |
 | Catch one per route | Only one Pokémon may be caught per route. Fusions are eligible for catching, but you must declare which Pokémon you will be taking & which you will be releasing. |
 | No HM moves in battle | HM moves are not permitted to be used inside of battle. |
+| Gym info | You may look at the typing of the Gym before entering. |
 | One-shot Gyms & dungeons | You must clear all trainers **BEFORE** the Leader. The Leader must be defeated before you can exit. A dungeon may be re-entered for story purposes. Forests are not considered dungeons. Any leftover experience **must be avoided** during re-entry. |
 | Gym Leader TMs | You may use Gym Leader TMs only **once per seed**. All other TMs are not usable. |
 | New Fusion before Gyms | One Pokémon must be unfused & fused to a new Pokémon before each Gym (choose wisely). Team member Pokémon must be fused **inside the party selection menu**. |
