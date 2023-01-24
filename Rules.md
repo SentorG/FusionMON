@@ -10,14 +10,14 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 ## FusionMON Randomiser Variables:
 | Variable | Details |
 |-|-|
-| Pokémon | Area, Sprites (OFF), Starters (ON), Statics (ON), Gift (ON), Fuse everything (OFF) |
-| Trainers | Custom sprites (OFF) |
-| Gym Trainers | Custom sprites (OFF), Gym types (ON), Rerandomise each battle (OFF) |
-| Items | Dynamic, Found items (ON), Found TMs (ON), Given items (ON), Given TMs (ON), Shop items (OFF), Trainer held items (ON) |
-| Trainer BST Range | Custom (200) |
-| Wild BST Range | Custom (200) |
-| Difficulty | Hard |
-| Autosave | Recommended OFF |
+| Pokémon | **Area**, Sprites **(OFF)**, Starters **(ON)**, Statics **(ON)**, Gift **(ON)**, Fuse everything **(OFF)** |
+| Trainers | Custom sprites **(OFF)** |
+| Gym Trainers | Custom sprites **(OFF)**, Gym types **(ON)**, Rerandomise each battle **(OFF)** |
+| Items | **Dynamic**, Found items **(ON)**, Found TMs **(ON)**, Given items **(ON)**, Given TMs **(ON)**, Shop items **(OFF)**, Trainer held items **(ON)** |
+| Trainer BST Range | Custom **(200)** |
+| Wild BST Range | Custom **(200)** |
+| Difficulty | **Hard** |
+| Autosave | Recommended **OFF** |
 
 ## FusionMON Rules:
 | Rule | Details |
