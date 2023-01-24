@@ -1,13 +1,13 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [IronMON Challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [Pokémon Infinite Fusion](https://www.pokecommunity.com/showthread.php?t=347883).
 
-Jump to: | [Rules](#fusionmon-rules) | [Levels](#infinite-fusion-levels) |
+Jump to: | [Rules](#standard-fusionmon-rules) | [Levels](#infinite-fusion-levels) |
 
 Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. The game introduces DNA Splicers (from Generation 5) which the player can use on any Pokémon they find in the game. Each combination has a unique sprite, stats, movepool, Pokédex entry, and everything else you could expect from a Pokémon. You can find out about what happens during the Fusion process [here](https://www.reddit.com/r/PokemonInfiniteFusion/comments/b01dyw/fusion_faq/). Use this [Fusion Calculator](https://aegide.github.io/) to see all the potential combinations! [Here](https://infinitefusion.fandom.com/wiki/Differences_with_the_official_games) you can find all of the major changes to the game.
 
 [Game download](https://mega.nz/folder/k4U1WZRa#k-eiqK-5n79fX1BqKUwuuQ) (full game or patch). New updates are uploaded periodically and this link will be kept up to date with the latest versions released. Make sure to join the [Pokémon Infinite Fusion Discord](https://discord.com/invite/vY8Y2m2) for updates.
 
-## FusionMON Randomiser Variables:
+## Standard FusionMON Randomiser Variables:
 | Variable | Details |
 |-|-|
 | Pokémon | **Area**, Sprites **(OFF)**, Starters **(ON)**, Statics **(ON)**, Gift **(ON)**, Fuse everything **(OFF)** |
@@ -19,7 +19,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Difficulty | **Hard** |
 | Autosave | Recommended **OFF** |
 
-## FusionMON Rules:
+## Standard FusionMON Rules:
 | Rule | Details |
 |-|-|
 | Permadeath | Once your entire team has wiped, reset the game to a new seed. |
@@ -47,8 +47,9 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | New Fusion before Gyms | One Pokémon must be unfused & fused to a new Pokémon before each Gym (choose wisely). Team member Pokémon must be fused **inside the party selection menu**. |
 | Fusion reuse | You may not use a Pokémon which has been fused to your main more than once. |
 | Move reminder | You may replace **4 moves per Fusion**. Relearnt moves must be purchased all at once (no saving moves for later). |
+| 6-team total | Only 6 Pokémon Fusions are permitted in the team per seed. If a Pokémon faints, they must be permanently placed in the box or released. |
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, wondertrade or Black Market) are banned. |
-| HM friends | If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Hustle, Compound Eyes etc. will not produce additional effects. |
+| HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Hustle, Compound Eyes etc. will not produce additional effects. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 
 ## Infinite Fusion Levels:
