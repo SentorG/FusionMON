@@ -80,4 +80,4 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Cynthia | **5** | 71, 71, 71, 72, 73 |
 | Gold | **6** | 76, 77, 77, 77, 78, 79 |
 
-[Back to top](the-fusionmon-challenge)
+[Back to top](#the-fusionmon-challenge)
