@@ -17,7 +17,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Trainer BST Range | Custom **(200)** |
 | Wild BST Range | Custom **(200)** |
 | Difficulty | **Hard** |
-| Autosave | Recommended **OFF** |
+| Autosave | Recommended **ON** |
 
 ## Standard FusionMON Rules:
 | Rule | Details |
