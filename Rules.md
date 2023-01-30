@@ -28,10 +28,11 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Single battle trainers | You may only battle each overworld trainer **ONCE** (no rematches). |
 | Random Lab starter | You must declare which ball you are going to choose before you see inside it. |
 | Favourites | 4 favourite Pokémon can be selected. If any of these Pokémon are in the Lab, but you did not choose it, you may take the favourite instead. |
+| Trapped abuse | If you are trapped due to Arena Trap/ Shadow Tag/ Magnet Pull, you may kill the Pokémon until Poké Balls are obtained for "catch and release". You **MUST** sacrifice one trainer's experience later on. |
 | Declaring a main | You must declare which Pokémon is going to be the main **BEFORE** Gym 1. |
 | Set mode | Set mode must be activated as soon as possible. |
 | Shiny clause | Any shinies found may be caught or killed for experience. |
-| No overpowered Pokémon | Only Pokémon below **600BST** may be selected for your team. If all Pokémon are banned in the Lab fight, you must reset but do not count it as an attempt. All Shedinja Fusions are banned. |
+| No overpowered Pokémon | Only Pokémon below **600BST** may be selected for your team. Legendary & Mythical Pokémon are banned. If all Pokémon are banned in the Lab fight, you must reset but do not count it as an attempt. All Shedinja Fusions are banned. |
 | Calculating Fusions | The [Infinite Fusion Calculator](https://aegide.github.io/) may be used during runs to understand typing/stat spreads. |
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
 | Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Soul Dew, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
