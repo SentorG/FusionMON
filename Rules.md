@@ -50,8 +50,8 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Fusion reuse | You may not use a Pokémon which has been fused to your main more than once. |
 | Move reminder | You may replace **4 moves per Fusion**. Relearnt moves must be purchased all at once (no saving moves for later). |
 | 6-team total | Only 6 Pokémon Fusions are permitted in the team per seed. If a Pokémon faints, they must be permanently placed in the box or released. |
-| Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Minus, Illuminate etc. will not produce additional effects. |
+| Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 
 ## Infinite Fusion Levels:
