@@ -37,21 +37,21 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
 | Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Soul Dew, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
 | x99 item ban | The x99 of one item is banned. You can sell it at the mart or trash them. ![x99ItemImage](x99.jpg) |
-| Collect once rule | Items in rocks and spider webs are a one-time pickup. Any items collected after initial collection must be trashed. Mushrooms & berry bushes are banned. |
+| Collect once | Items in rocks and spider webs are a one-time pickup. Any items collected after initial collection must be trashed. Mushrooms & berry bushes are banned. |
 | No yellow balls | TMs in the overworld are yellow Poké Balls. Try your best to avoid picking them up. If you do pick one up, store it in the PC immediately. |
 | Flute rule | Any acquired Flutes may only be used **once each per Pokémon Centre heal**. |
 | No stealing | Items may not be harvested from wild Pokémon. |
 | Catch one per route | Only one Pokémon may be caught per route. Fusions are eligible for catching, but you must declare which Pokémon you will be taking & which you will be releasing. |
 | No HM moves in battle | HM moves are not permitted to be used inside of battle. |
 | Gym info | You may look at the typing of the Gym before entering. |
-| One-shot Gyms & dungeons | You must clear all trainers **BEFORE** the Leader. The Leader must be defeated before you can exit. A dungeon may be re-entered for story purposes. Forests are not considered dungeons. Any leftover experience **must be avoided** during re-entry. |
-| Gym Leader TMs | You may use Gym Leader TMs only **once per seed**. All other TMs are not usable. |
 | New Fusion before Gyms | One Pokémon must be unfused & fused to a new Pokémon before each Gym (choose wisely). Team member Pokémon must be fused **inside the party selection menu**. |
 | Fusion reuse | You may not use a Pokémon which has been fused to your main more than once. |
 | Move reminder | You may replace **4 moves per Fusion**. Relearnt moves must be purchased all at once (no saving moves for later). |
+| One-shot Gyms & dungeons | You must clear all trainers **BEFORE** the Leader. The Leader must be defeated before you can exit. A dungeon may be re-entered for story purposes. Forests are not considered dungeons. Any leftover experience **must be avoided** during re-entry. |
+| Gym Leader TMs | You may use Gym Leader TMs only **once per seed**. All other TMs are not usable. |
 | 6-team total | Only 6 Pokémon Fusions are permitted in the team per seed. If a Pokémon faints, they must be permanently placed in the box or released. |
 | HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Minus, Illuminate etc. will not produce additional effects. |
-| Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
+| Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 
 ## Infinite Fusion Levels:
