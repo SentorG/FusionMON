@@ -28,7 +28,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Single battle trainers | You may only battle each overworld trainer **ONCE** (no rematches). |
 | Random Lab starter | You must declare which ball you are going to choose before you see inside it. |
 | Favourites | 4 favourite Pokémon can be selected. If any of these Pokémon are in the Lab, but you did not choose it, you may take the favourite instead. |
-| Trapped abuse | If you are trapped due to Arena Trap/ Shadow Tag/ Magnet Pull, you may kill the Pokémon until Poké Balls are obtained for "catch and release". You **MUST** sacrifice one trainer's experience later on. |
+| Trapped abuse | If you are trapped due to Arena Trap/Shadow Tag/Magnet Pull, you may kill the Pokémon until Poké Balls are obtained for "catch and release". You **MUST** sacrifice one trainer's experience later on. |
 | Declaring a main | You must declare which Pokémon is going to be the main **BEFORE** Gym 1. |
 | Set mode | Set mode must be activated as soon as possible. |
 | Shiny clause | Any shinies found may be caught or killed for experience. |
