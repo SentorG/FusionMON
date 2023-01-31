@@ -1,7 +1,7 @@
 # The FusionMON Challenge
-FusionMON is a challenge which has been created to incorporate the [IronMON Challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [Pokémon Infinite Fusion](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [Sentor_G](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2022.
+FusionMON is a challenge which has been created to incorporate the [IronMON Challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [Pokémon Infinite Fusion](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [Sentor_G](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2023.
 
-*At present, the list of rules and optimisations for players are being tested (31/01/2022)*
+*At present, the list of rules and optimisations for players are being tested (31/01/2023)*
 
 **Jump to:** | [Rules](#standard-fusionmon-rules) | [Levels](#infinite-fusion-levels) |
 
