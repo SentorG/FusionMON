@@ -37,7 +37,6 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Calculating Fusions | The [Infinite Fusion Calculator](https://aegide.github.io/) may be used during runs to understand typing/stat spreads. |
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
 | Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Soul Dew, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
-| x99 item ban | The x99 of one item is banned. You can sell it at the mart or trash them. ![x99ItemImage](x99.jpg) |
 | Collect once | Items in rocks and spider webs are a one-time pickup. Any items collected after initial collection must be trashed. Mushrooms & berry bushes are banned. |
 | No yellow balls | TMs in the overworld are yellow Poké Balls. Try your best to avoid picking them up. If you do pick one up, store it in the PC immediately. |
 | Flute rule | Any acquired Flutes may only be used **once each per Pokémon Centre heal**. |
