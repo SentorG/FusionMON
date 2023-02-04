@@ -16,7 +16,7 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 |-|-|
 | Pokémon | **Area**, Sprites **(OFF)**, Starters **(ON)**, Statics **(ON)**, Gift **(ON)**, Fuse everything **(OFF)** |
 | Trainers | Custom sprites **(OFF)** |
-| Gym Trainers | Custom sprites **(OFF)**, Gym types **(ON)**, Rerandomise each battle **(OFF)** |
+| Gym Trainers | Custom sprites **(OFF)**, Gym types **(ON)**, Rerandomize each battle **(OFF)** |
 | Items | **Dynamic**, Found items **(ON)**, Found TMs **(ON)**, Given items **(OFF)**, Given TMs **(OFF)**, Shop items **(OFF)**, Trainer held items **(OFF)** |
 | Trainer BST Range | Custom **(200)** |
 | Wild BST Range | Custom **(300)** |
