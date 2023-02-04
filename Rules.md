@@ -15,7 +15,7 @@ Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. T
 | Pokémon | **Area**, Sprites **(OFF)**, Starters **(ON)**, Statics **(ON)**, Gift **(ON)**, Fuse everything **(OFF)** |
 | Trainers | Custom sprites **(OFF)** |
 | Gym Trainers | Custom sprites **(OFF)**, Gym types **(ON)**, Rerandomise each battle **(OFF)** |
-| Items | **Dynamic**, Found items **(ON)**, Found TMs **(ON)**, Given items **(OFF)**, Given TMs **(OFF)**, Shop items **(OFF)**, Trainer held items **(ON)** |
+| Items | **Dynamic**, Found items **(ON)**, Found TMs **(ON)**, Given items **(OFF)**, Given TMs **(OFF)**, Shop items **(OFF)**, Trainer held items **(OFF)** |
 | Trainer BST Range | Custom **(200)** |
 | Wild BST Range | Custom **(300)** |
 | Difficulty | **Hard** |
