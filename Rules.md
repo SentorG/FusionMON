@@ -51,7 +51,6 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | Move reminder | You may replace **4 moves per Fusion**. Relearnt moves must be purchased all at once (no saving moves for later). |
 | One-shot Gyms & dungeons | You must clear all trainers **BEFORE** the Leader. The Leader must be defeated before you can exit. A dungeon may be re-entered for story purposes. Forests are not considered dungeons. Any leftover experience **must be avoided** during re-entry. |
 | Gym Leader TMs | You may use Gym Leader TMs only **once per seed**. All other TMs are not usable. |
-| 6-team total | Only 6 Pokémon Fusions are permitted in the team per seed. If a Pokémon faints, they must be permanently placed in the box or released. |
 | HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Klutz, Illuminate etc. will not produce additional effects. |
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
