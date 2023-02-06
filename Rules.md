@@ -55,7 +55,10 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 
-## Infinite Fusion Levels:
+## Infinite Fusion Levels (Normal):
+
+Hard mode to be tested. These are the values recorded in a casual playthrough on stream.
+
 | NPC | Team Size | Levels |
 |-|-|-|
 | Brock | **2** | 9, 12 |
