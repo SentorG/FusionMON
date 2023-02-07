@@ -1,7 +1,7 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [**IronMON challenge**](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [**Pokémon Infinite Fusion**](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [**Sentor_G**](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2023.
 
-*At present, the list of rules and optimisations for players are being tested (6/02/2023)*
+*At present, the list of rules and optimisations for players are being tested (7/02/2023)*
 
 **Jump to:** | [**Rules**](#standard-fusionmon-rules) | [**Levels**](#infinite-fusion-levels) |
 
@@ -55,36 +55,34 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 
-## Infinite Fusion Levels (Normal):
-
-Hard mode to be tested. These are the values recorded in a casual playthrough on stream.
+## Infinite Fusion Levels (Hard):
 
 | NPC | Team Size | Levels |
 |-|-|-|
-| Brock | **2** | 9, 12 |
-| Misty | **2** | 19, 22 |
-| Surge | **3** | 24, 24, 26 |
-| Erica | **3** | 33, 33, 35 |
-| Koga | **4** | 35, 36, 36, 38 |
-| Sabrina | **4** | 41, 41, 42, 45 |
-| Blaine | **4** | 47, 47, 49, 51 |
-| Giovanni | **5** | 50, 50, 52, 54, 54 |
-| Blue (Pre-E4) | **6** | 45, 45, 47, 47, 50, 53 |
-| Lorelei | **5** | 53, 54, 54, 57, 57 |
-| Bruno | **5** | 53, 53, 54, 57, 57 |
-| Agatha | **5** | 55, 55, 55, 57, 58 |
-| Lance | **5** | 54, 55, 57, 58, 59 |
-| Blue (Champion) | **6** | 58, 59, 59, 60, 61, 64 |
-| Whitney | **5** | 55, 55, 56, 56, 58 |
-| Kurt | **5** | 56, 56, 58, 58, 62 |
-| Falkner | **5** | 58, 58, 60, 61, 63 |
-| Chuck (Boon Island) | **5** | 62, 62, 63, 64, 64 |
-| Clair | **5** | 62, 62, 63, 63, 66 |
-| Morty | **5** | 63, 64, 65, 65, 67 |
-| Pryce | **5** | 64, 65, 65, 65, 65 |
-| Jasmine (Chrono Island) | **5** | 66, 66, 67, 67, 68 |
-| Blue (Mt. Silver) | **5** | 68, 69, 69, 69, 72 |
-| Cynthia | **5** | 71, 71, 71, 72, 73 |
-| Gold | **6** | 76, 77, 77, 77, 78, 79 |
+| Brock | **2** | 10, 14 |
+| Misty | **2** | 21, 25 |
+| Surge | **3** |  |
+| Erica | **3** | |
+| Koga | **4** | |
+| Sabrina | **4** | |
+| Blaine | **4** | |
+| Giovanni | **5** | |
+| Blue (Pre-E4) | **6** | |
+| Lorelei | **5** | |
+| Bruno | **5** | |
+| Agatha | **5** | |
+| Lance | **5** | |
+| Blue (Champion) | **6** | |
+| Whitney | **5** | |
+| Kurt | **5** | |
+| Falkner | **5** | |
+| Chuck (Boon Island) | **5** | |
+| Clair | **5** | |
+| Morty | **5** | |
+| Pryce | **5** | |
+| Jasmine (Chrono Island) | **5** | |
+| Blue (Mt. Silver) | **5** | |
+| Cynthia | **5** | |
+| Gold | **6** | |
 
 [**Back to top**](#the-fusionmon-challenge)
