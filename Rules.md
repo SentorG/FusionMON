@@ -64,7 +64,7 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 |-|-|-|
 | Brock | **2** | 10, 14 |
 | Misty | **2** | 21, 25 |
-| Surge | **3** |  |
+| Surge | **3** | 27, 27, 29 |
 | Erica | **3** | |
 | Koga | **4** | |
 | Sabrina | **4** | |
