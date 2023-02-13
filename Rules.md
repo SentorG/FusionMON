@@ -1,9 +1,9 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [**IronMON challenge**](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [**Pokémon Infinite Fusion**](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [**Sentor_G**](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2023.
 
-*At present, the list of rules and optimisations for players are being tested (7/02/2023)*
+*At present, the list of rules and optimisations for players are being tested (13/02/2023)*
 
-**Jump to:** | [**Rules**](#standard-fusionmon-rules) | [**Levels**](#infinite-fusion-levels) |
+**Jump to:** | [**Rules**](#standard-fusionmon-rules) | [**Levels**](#hard-mode-levels) |
 
 Pokémon Infinite Fusion is a fanmade game, based on Pokémon FireRed Version. The game introduces DNA Splicers (from Generation 5) which the player can use on any Pokémon they find in the game. Each combination has a unique sprite, stats, movepool, Pokédex entry, and everything else you could expect from a Pokémon. You can find out about what happens during the Fusion process [**here**](https://www.reddit.com/r/PokemonInfiniteFusion/comments/b01dyw/fusion_faq/). Use this [**Fusion Calculator**](https://aegide.github.io/) to see all the potential combinations! [**Here**](https://infinitefusion.fandom.com/wiki/Differences_with_the_official_games) you can find all of the major changes to the game.
 
@@ -47,15 +47,18 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | No HM moves in battle | HM moves are not permitted to be used inside of battle. |
 | Gym info | You may look at the typing of the Gym before entering. |
 | New Fusion before Gyms | One Pokémon must be unfused & fused to a new Pokémon before each Gym (choose wisely). The main Pokémon must be fused to a new Pokémon **inside the party selection menu**. |
+| No reversing | The DNA Reversers are banned. |
 | Fusion reuse | You may not use a Pokémon which has been fused to your main more than once. |
 | Move reminder | You may replace **4 moves per Fusion**. Relearnt moves must be purchased all at once (no saving moves for later). |
+| Move teachers | Move-specific teachers (such as Rollout in Vermilion) are banned. |
 | One-shot Gyms & dungeons | You must clear all trainers **BEFORE** the Leader. The Leader must be defeated before you can exit. A dungeon may be re-entered for story purposes. Forests are not considered dungeons. Any leftover experience **must be avoided** during re-entry. |
 | Gym Leader TMs | You may use Gym Leader TMs only **once per seed**. All other TMs are not usable. |
 | HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Klutz, Illuminate etc. will not produce additional effects. |
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
+| No detours | Side quests given to the player in Hotels are banned. |
 
-## Infinite Fusion Levels:
+## Hard Mode Levels:
 
 | NPC | Team Size | Levels |
 |-|-|-|
