@@ -1,7 +1,7 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [**IronMON challenge**](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [**Pokémon Infinite Fusion**](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [**Sentor_G**](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2023.
 
-*At present, the list of rules and optimisations for players are being tested (13/02/2023)*
+*At present, the list of rules and optimisations for players are being tested (21/02/2023)*
 
 **Jump to:** | [**Rules**](#standard-fusionmon-rules) | [**Levels**](#hard-mode-levels) |
 
@@ -56,7 +56,9 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Klutz, Illuminate etc. will not produce additional effects. |
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
-| No detours | Side quests given to the player in Hotels are banned. |
+| No detours | Side quests given to the player in hotels are banned. |
+
+[**Back to top**](#the-fusionmon-challenge)
 
 ## Hard Mode Levels:
 
