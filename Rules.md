@@ -1,7 +1,7 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [**IronMON challenge**](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [**Pokémon Infinite Fusion**](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [**Sentor_G**](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2023.
 
-*At present, the list of rules and optimisations for players are being tested (28/02/2023)*
+*At present, the list of rules and optimisations for players are being tested (15/03/2023)*
 
 **Jump to:** | [**Rules**](#standard-fusionmon-rules) | [**Levels**](#hard-mode-levels) |
 
@@ -31,6 +31,7 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | No replays | If you are unsatisfied with a result, you may not replay. |
 | Lab choice | No random picks in the Lab. Take the Pokémon which you think can win against a Fusion of the remaining two. |
 | Limited purchases | The only items permitted for purchase are (any type of) Poké Balls, Splicers and Repels. |
+| No item re-rolls | Saving before an item pickup and re-rolling it is banned. |
 | Single battle trainers | You may only battle each overworld trainer **ONCE** (no rematches). |
 | Declaring a main | You must declare which Pokémon is going to be the main **BEFORE** Gym 1. |
 | Randomising Gym TMs | On initial randomisation of the save, Gym Leader TMs will not be randomised. You will need to speak to the Update Man upstairs in Pewter City Pokémon Center to randomise "Given TMs" **BEFORE** Gym 1. |
@@ -38,12 +39,13 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | No overpowered Pokémon | Legendary & Mythical Pokémon are banned. If all Pokémon are banned in the Lab fight, you must reset but do not count it as an attempt. **600BST** Pokémon may be selected for your team. Slaking and all Shedinja Fusions are banned. |
 | Calculating Fusions | The [**Infinite Fusion Calculator**](https://aegide.github.io/) may be used during runs to understand typing/stat spreads. |
 | Let them grow | If a Pokémon wants to evolve, let them. If an item is found for evolution, you do not have to use it. |
-| Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Soul Dew, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
+| Banned items | Everstone, Leftovers, Lucky Egg, Eviolite, Soul Dew, Adamant/Lustrous/Griseous Orb, Mist Stone, Gender Stone, Gender Ball, Boost Ball, Ability Ball, Virus Ball, Perfect Ball, Candy Ball. Exp. All is banned/must be turned off. |
 | Collect once | Items in rocks and spider webs are a one-time pickup. Any items collected after initial collection must be trashed. Mushrooms & berry bushes are banned. |
 | No yellow balls | TMs in the overworld are yellow Poké Balls. Try your best to avoid picking them up. If you do pick one up, store it in the PC immediately. |
 | Flute rule | Any acquired Flutes may only be used **once each per Pokémon Centre heal**. |
 | No stealing | Items may not be harvested from wild Pokémon. |
 | Catch one per route | Only one Pokémon may be caught per route. Fusions are eligible for catching, but you must declare which Pokémon you will be taking & which you will be releasing. |
+| Dupe encounters | Catching the same Pokémon on two routes is banned. No duplicates. |
 | No HM moves in battle | HM moves are not permitted to be used inside of battle. |
 | Gym info | You may look at the typing of the Gym before entering. |
 | New Fusion before Gyms | One Pokémon must be unfused & fused to a new Pokémon before each Gym (choose wisely). The main Pokémon must be fused to a new Pokémon **inside the party selection menu**. |
@@ -54,9 +56,11 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | One-shot Gyms & dungeons | You must clear all trainers **BEFORE** the Leader. The Leader must be defeated before you can exit. A dungeon may be re-entered for story purposes. Forests are not considered dungeons. |
 | Gym Leader TMs | You may use Gym Leader TMs only **once per seed**. All other TMs are not usable. |
 | HM friends | HM friends must be declared. If an HM friend is swapped in during battle due to Whirlwind/Roar, you must switch immediately. The HM friend **MUST HAVE** an ability which will not alter the outcome of the battle. For example, Run Away, Klutz, Illuminate etc. will not produce additional effects. |
+| Key Items | Once a Key Item (such as the Pickaxe) has been obtained, you must no longer use the HM friend who was initially needed. |
 | Illegal Pokémon | Pokémon which are static, traded, gifted or sold (for example, Wondertrade or Black Market) are banned. These Pokémon may be used as HM friends if their ability does not impact the battle. |
 | Accidental kills/catches | Any accidental kills should result in immediately leaving the route and discounting any potential catches from the route going forward. Any accidental catches must be released. |
 | No detours | Side quests given to the player in hotels are banned. |
+| Fishing items | If an item is fished up instead of an encounter, no more items can be obtained from that route. You may still search for a Pokémon, but any new items obtained must be trashed or sold. |
 
 [**Back to top**](#the-fusionmon-challenge)
 
