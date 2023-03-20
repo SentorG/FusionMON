@@ -1,7 +1,7 @@
 # The FusionMON Challenge
 FusionMON is a challenge which has been created to incorporate the [**IronMON challenge**](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) into [**Pokémon Infinite Fusion**](https://www.pokecommunity.com/showthread.php?t=347883). It was initially conceived by [**Sentor_G**](https://www.twitch.tv/sentor_g) & his Twitch chat on 20/01/2023.
 
-*At present, the list of rules and optimisations for players are being tested (15/03/2023)*
+*At present, the list of rules and optimisations for players are being tested (20/03/2023)*
 
 **Jump to:** | [**Rules**](#standard-fusionmon-rules) | [**Levels**](#hard-mode-levels) |
 
@@ -71,7 +71,7 @@ The IronMON challenge was created to avoid the need for grinding on wild Pokémo
 | Brock | **2** | 10, 14 |
 | Misty | **2** | 21, 25 |
 | Surge | **3** | 27, 27, 29 |
-| Erica | **3** | |
+| Erica | **3** | 37, 37, 39 |
 | Koga | **4** | |
 | Sabrina | **4** | |
 | Blaine | **4** | |
